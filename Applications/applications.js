@@ -17,7 +17,7 @@ client.on('message', async message  => {
     const command = args.shift().toLowerCase();
     
     if(command === "apps"){
-       message.channel.send(`${message.author}, check your dm!`)
+       message.channel.send(`${message.author}, check your dm!`);
     console.log(`New application has started by --> ${message.author.tag}`);
       
         try{
