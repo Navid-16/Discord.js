@@ -27,7 +27,8 @@ module.exports = {
                  {name: 'clear', value:'requires staff role'},
                  {name: 'kick', value:'requires staff role'},
                  {name: 'unban', value:'requires staff role'},
-                 {name: 'warn', value:'requires staff role'}
+                 {name: 'warn', value:'requires staff role'},
+                 {name: 'roulette', value: 'want to test your luck?'}
              )
              
 
