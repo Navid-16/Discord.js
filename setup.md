@@ -1,8 +1,14 @@
-                                                                    config.json
-ADD YOUR BOT TOKEN AND PREFIX
+```       
+                                                                  config.json
+                                                                  
+                                                       ADD YOUR BOT TOKEN AND PREFIX
                                                                     
                                                                     DB.JS
-ADD YOUR DATABASE INFO
+                                                                    
+                                                           ADD YOUR DATABASE INFO
  
                                                                    setup.js
-THE CONFIG YOU HAVE TO SETUP
+                                                                   
+                                                       THE CONFIG YOU HAVE TO SETUP
+
+```
