@@ -4,14 +4,14 @@ discord.js is a powerful [Node.js](https://nodejs.org/en/)  module that allows y
 
 Usability, consistency, and performance are key focuses of discord.js, and it also has nearly 100% coverage of the Discord API. It receives new Discord features shortly after they arrive in the API.
 
-#[NPM](https://www.npmjs.com/)
+## [NPM](https://www.npmjs.com/)
 
 npm is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
 
 
-#DOCUMENTATION
+### DOCUMENTATION
 
-*Installing Discord.js and mysql
+* Installing Discord.js and mysql
 
 To install discord.js and mysql run the bellow commands
 
