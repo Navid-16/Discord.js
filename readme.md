@@ -8,12 +8,13 @@ Usability, consistency, and performance are key focuses of discord.js, and it al
 
 npm is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
 
+### [NODE.JS](https://nodejs.org/en/)
 
-### DOCUMENTATION
+* install node.js
+
+#### DOCUMENTATION
 
 * Installing Discord.js and mysql
-
-To install discord.js and mysql run the bellow commands
 
 1. npm install discord.js
 2. npm install mysql
