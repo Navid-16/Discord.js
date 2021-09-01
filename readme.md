@@ -18,3 +18,21 @@ npm is the world's largest software registry. Open source developers from every 
 
 1. npm install discord.js
 2. npm install mysql
+
+##### SETUP
+
+* config.json
+1. Add your bot token
+2. Add your bot prefix
+
+* db.js
+
+1. Add the IP or HOST NAME
+2. Add your DB NAME
+3. Add your DB USERNAME
+4. Add your DB PASSWORD
+5. db.js located at dababase folder
+
+* setup.js
+
+`setup.js its the file where you will need to add your roles and channel ID`
